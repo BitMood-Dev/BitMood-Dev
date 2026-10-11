@@ -1,8 +1,6 @@
 <div align="center">
 
-# Super
-<p style="color: #8a8a8e; font-size: 16px; letter-spacing: 2px;">ENGINE DEVELOPER</p>
-</div>
+![Super](assets/Super_Banner.png)
 
 ---
 
